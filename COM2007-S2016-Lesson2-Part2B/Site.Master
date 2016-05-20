@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="COMP2007___S2016___Lesson_2___Part_2B.Site" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="COM2007_S2016_Lesson2_Part2B.Site" %>
 
 <!DOCTYPE html>
 <html lang="en">
